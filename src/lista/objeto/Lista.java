@@ -59,7 +59,7 @@ public class Lista {
 		else if (num == 9) {
 			questaoNove();
 		}
-		else if (num == 10) {
+		else if (num == 11) {
 			questaoDez();
 		}
 	}
