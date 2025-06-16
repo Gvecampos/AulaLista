@@ -24,7 +24,7 @@ public class Lista {
 		System.out.println("7  questao Sete");
 		System.out.println("8  questao Oito");
 		System.out.println("9  questao nove");
-		System.out.println("10  questao dez");
+		System.out.println("11  questao dez");
 
 		int num = scan.nextInt();
 
